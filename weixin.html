@@ -1,0 +1,26 @@
+---
+layout: default
+description: "扫一扫，添加关注微信公众号"
+header-img: "img/black.jpg"
+permalink: /weixin.html
+---
+
+
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<div class="site-heading" id="tag-heading">
+          <span class="subheading" >{{ page.description }}</span>
+          <br />
+          <img src="/img/weixin.jpg" width="300px" height="300px"/>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<script>
+	document.body.classList.add('page-fullscreen');
+</script>
