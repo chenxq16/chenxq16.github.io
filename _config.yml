@@ -61,7 +61,7 @@ duoshuo_share: true
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: a0916e1517332e72f89d1d77a119fc6d
+ba_track_id: b9fd205c58ae60c8ca25679be34e3083
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
