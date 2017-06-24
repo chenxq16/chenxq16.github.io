@@ -46,7 +46,7 @@ tags:
 	* 之前博主使用的是FakeMap，但目前的版本，会导致手机自动重启并且无法进入手机，期待作者的修复。目前推荐FakeLocation，版本1.2.681.1701，亲测可用。<br/><br/>
 9. 重启完成后，桌面上会多一个APP-模拟位置。打开模拟位置APP，如下图  
 ![图1](/media/wechat/wechat-zhuangbilitiy-01.jpg)
-选择微信APP，选择右边的地图按钮，想在那就去那。选完位置后，点击更新。等到提示已更新。  
+选择微信APP，选择右边的地图按钮，想去那儿就去那。选完位置后，点击更新。等到出现已经更新的提示。  
 ![图2](/media/wechat/wechat-zhuangbilitiy-02.jpg)
 打开微信APP，切换到发现，选择好事先准备好的图。选择所在位置，你会发现。WOW，我已经在拉萨了。  
 ![图3](/media/wechat/wechat-zhuangbilitiy-03.jpg)<br/><br/>
