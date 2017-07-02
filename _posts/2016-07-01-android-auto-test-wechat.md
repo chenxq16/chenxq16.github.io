@@ -93,7 +93,7 @@ tags:
 	快速通道：<a href="http://appium.github.io/java-client/">Java API</a>
 
 	尤其是关于一些如何定位一个组件的findElement等方法。
-	![findElement](/media/android/findElement.jpg)  
+	![findElement](/media/android/findelement.jpg)  
 	推荐资料:<a href="http://www.w3school.com.cn/xpath/index.asp">XPath教程</a>
 
 	其实你搞清楚这些findElement方法，后面就基本没啥问题了。
