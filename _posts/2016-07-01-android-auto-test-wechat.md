@@ -30,7 +30,7 @@ tags:
 
 #### Android环境
 
-也好好。请参考：<a href="http://www.eoeandroid.com/thread-272627-1-1.html">http://www.eoeandroid.com/thread-272627-1-1.html</a>
+也还好。请参考：<a href="http://www.eoeandroid.com/thread-272627-1-1.html">http://www.eoeandroid.com/thread-272627-1-1.html</a>
 
 #### eclipse
 后面我会用Java来开发这套脚本，IDE必不可少。<a href="http://www.eclipse.org/">http://www.eclipse.org/</a>
