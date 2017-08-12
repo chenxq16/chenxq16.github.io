@@ -84,8 +84,13 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 
 # Friends
 friends: [
+  {
+    title: "雪山",
+    href: "http://menghao.org/"
+  },
     {
         title: "大猪飞在云端",
         href: "http://dazhu.in/"
     }
+
 ]
